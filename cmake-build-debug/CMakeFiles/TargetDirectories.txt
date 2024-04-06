@@ -1,0 +1,3 @@
+C:/Users/wicol/CLionProjects/FarmOctavia/cmake-build-debug/CMakeFiles/FarmOctavia.dir
+C:/Users/wicol/CLionProjects/FarmOctavia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wicol/CLionProjects/FarmOctavia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
